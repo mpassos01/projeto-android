@@ -58,7 +58,7 @@ header > p {
     padding-right: 10px;
     padding-left: 10px;
     text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.267);
-    margin-bottom: 20px;
+    padding-bottom: 30px;
 }
 
 
@@ -124,6 +124,7 @@ main h1{
     color: var(--cor5);
     font-family: var(--fonte-android); font-weight: normal;
     font-size: 1.8em;
+    justify-content: start;
 }
 
 main h2{
